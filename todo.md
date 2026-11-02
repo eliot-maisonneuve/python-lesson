@@ -3,3 +3,4 @@
 -[X] Make sure there is a liscence in the repository
 -[X] Add a todo.md file
 -[X] Add items to the todolist
+-[X] Add more items to the todolist
